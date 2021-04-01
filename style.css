@@ -476,7 +476,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 35px!important;
 }
 
 .icon-lg {
@@ -697,7 +697,7 @@ p {
 
 .footer-partners p {
     color: #fff !important;
-    font-size: 1.8rem;
+    font-size: 2rem;
     text-align: center;
 }
 
@@ -706,7 +706,9 @@ p {
 }
 
 .footer-partners li {
+    margin-top: .5rem;
     display: flex;
+    font-size: 1.5rem;
     justify-content: center;
 }
 
